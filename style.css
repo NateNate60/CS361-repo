@@ -1,0 +1,28 @@
+/*
+This file doesn't contain anything at the moment, but it will when the project is finished to make it look better.
+*/
+
+button {
+    font-size: larger;
+}
+
+.green_button {
+    background-color: green;
+    border: none;
+}
+
+.red_button {
+    background-color: red;
+    border: none;
+}
+
+body {
+    margin-top: 10%;
+    margin-left: 10%;
+    margin-right: 10%;
+}
+
+table {
+    table-layout: fixed;
+    width: 80%;
+}
